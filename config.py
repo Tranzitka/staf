@@ -1,3 +1,3 @@
-BOT_TOKEN = 'YOUR_BOT_TOKEN_HERE'  # вставьте сюда токен
-PAYMENT_URL = 'https://yoomoney.ru/to/YOUR_LINK'  # ссылка на оплату
-ADMIN_ID = 123456789  # Telegram ID для ручного подтверждения
+BOT_TOKEN = '7977501606:AAHdiELV-OlQXZzRlqcOlWd3JploYKfnDUY'  # вставьте сюда токен
+PAYMENT_URL = 'TVdvwwpxVJ5SsNnHPM7rFANCa7s9UZ7wDs'  # ссылка на оплату
+ADMIN_ID = 6106375322  # Telegram ID для ручного подтверждения
