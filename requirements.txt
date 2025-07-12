@@ -1,2 +1,2 @@
 aiogram==2.25.1
-pip install -r
+pip install -r requirements.txt
